@@ -4,3 +4,10 @@
   font-weight: 400;
   font-style: normal;
 }
+
+.font-noto-serif{
+  font-family: "Noto Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
